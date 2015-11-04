@@ -1,3 +1,6 @@
+#editor
+.idea/
+
 node_modules
 *.sqlite
 *.DS_Store
